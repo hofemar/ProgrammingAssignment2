@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contaisn a function to create a matrix with a cache for 
+## its inverse. Furthermore it also provides a function that computes
+## the inverse or if possible retrieves it from the cache.
 
 ## The function takes a matrix x and returns a "special matrix" that
 ## contains a cache for the inverse of that matrix. Each time an new
